@@ -18,7 +18,7 @@
 ---
 
 - [Examples](#try-the-example-apps)
-- [Motivation](https://gist.github.com/aksonov/e2d7454421e44b1c4c72214d14053410)
+- [Motivation](https://gist.github.com/LuckyCoder5/e2d7454421e44b1c4c72214d14053410)
 - [v4 Features](#v4-features)
 - [API](/docs/API.md)
 - [Migrating from v3](/docs/MIGRATION.md)
@@ -77,7 +77,7 @@ Actions.refresh({ param1: 'hello', param2: 'world' });
 
 For a full listing of the API, [view the API docs](https://github.com/aksonov/react-native-router-flux/blob/master/docs/API.md).
 
-## Try the [example apps](https://github.com/aksonov/react-native-router-flux/tree/master/examples)
+## Try the [example apps](https://github.com/LuckyCoder5/react-native-router-flux/tree/master/examples)
 
 ![rnrf](https://user-images.githubusercontent.com/3681859/27937441-ef61d932-626b-11e7-885f-1db7dc74b32e.gif)
 
@@ -147,7 +147,7 @@ componentDidMount(){
 ## Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute]](CONTRIBUTING.md).
-<a href="https://github.com/aksonov/react-native-router-flux/graphs/contributors"><img src="https://opencollective.com/react-native-router-flux/contributors.svg?width=890" /></a>
+<a href="https://github.com/LuckyCoder5/react-native-router-flux/graphs/contributors"><img src="https://opencollective.com/react-native-router-flux/contributors.svg?width=890" /></a>
 
 ## Backers
 
